@@ -1,6 +1,6 @@
 #DECAGON
 from turtle import *
-
+color('RED')
 left(36)
 forward(100)
 left(36)
