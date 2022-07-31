@@ -1,0 +1,6 @@
+s=chr(65)
+print(s)
+s=chr(2365)
+print(s)
+s=chr(12365)
+print(s)
