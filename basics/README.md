@@ -4,7 +4,7 @@ this is my code content for my python classes
 - python basics
 - Data structures
 - Function and classes
-- Data analyhtics
+- Data analytics
 - Data Visualization
 - computer vision
 - mini project
